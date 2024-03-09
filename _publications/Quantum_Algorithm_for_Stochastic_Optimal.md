@@ -1,7 +1,7 @@
 ---
 title: "Quantum algorithm for stochastic optimal stopping problems with applications in finance"
 collection: publications
-permalink: /publication/Quantum_Algorithm_for_Stochastic_Optimal
+permalink: /publication/Quantum_Algorithm_for_Stochastic_Optimal.pdf
 excerpt: ''
 date: 2022-10-01
 venue: 'TQC2022'
