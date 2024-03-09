@@ -5,7 +5,7 @@ permalink: /publication/Quantum_Algorithm_for_Stochastic_Optimal
 excerpt: ''
 date: 2022-10-01
 venue: 'TQC2022'
-paperurl: 'Quantum_Algorithm_for_Stochastic_Optimal.pdf'
+paperurl: 'Journal'
 citation: ''
 ---
 
