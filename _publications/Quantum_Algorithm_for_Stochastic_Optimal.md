@@ -5,7 +5,7 @@ permalink: /publications/Quantum_Algorithm_for_Stochastic_Optimal
 excerpt: ''
 date: 2022-10-01
 venue: 'TQC2022'
-paperurl: 'ttp://dsxxxk.github.io/files/On_the_quantum_time_complexity_of_divide_and_conquer.pdf'
+paperurl: 'https://arxiv.org/pdf/2111.15332.pdf'
 citation: ''
 ---
 
