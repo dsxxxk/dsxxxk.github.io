@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2022-10-01
 venue: 'TQC2022'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'Quantum_Algorithm_for_Stochastic_Optimal.pdf'
 citation: ''
 ---
 
