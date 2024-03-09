@@ -12,7 +12,7 @@ title                    : "Jinge Bao"
 title_separator          : "-"
 name                     : &name "Jinge Bao"
 description              : &description "personal description"
-url                      : https://dsxxxk.github.io # the base hostname & protocol for your site e.g. "https://dsxxxk.github.io"
+URL                      : "https://dsxxxk.github.io" # the base hostname & protocol for your site e.g. "https://dsxxxk.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dsxxxk/dsxxxk.github.io"
 
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
   location         : "Singapore"
-  employer         : "Centre for Quantum Technologies, National University of Singapore"
+  employer         : "CQT, NUS"
   URI              : "dsxxxk.github.io"
   email            : "jbao@u.nus.edu" 
 
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=U1TGq_gAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1159-0232"
-  pubmed           : ""
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
