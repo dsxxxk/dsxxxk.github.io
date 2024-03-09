@@ -1,11 +1,11 @@
 ---
 title: "Quantum algorithm for stochastic optimal stopping problems with applications in finance"
 collection: publications
-permalink: /publication/Quantum_Algorithm_for_Stochastic_Optimal.pdf
+permalink: /_publications/Quantum_Algorithm_for_Stochastic_Optimal.pdf
 excerpt: ''
 date: 2022-10-01
 venue: 'TQC2022'
-paperurl: 'Journal'
+paperurl: 'ttp://dsxxxk.github.io/files/On_the_quantum_time_complexity_of_divide_and_conquer.pdf'
 citation: ''
 ---
 
