@@ -1,10 +1,10 @@
 ---
 title: "Constant-depth circuits for Uniformly Controlled Gates and Boolean functions with application to quantum memory circuits"
-collection: prerpints
+collection: preprints
 permalink: /publication/Constant-depth_circuits_for_Uniformly_Controlled_Gates
 excerpt: ''
 date: 2023-08-16
-venue: 'QTML2023. In Submission'
+venue: ''
 paperurl: 'https://arxiv.org/pdf/2308.08539.pdf'
 citation: ''
 ---
