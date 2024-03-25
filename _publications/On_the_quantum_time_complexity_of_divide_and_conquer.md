@@ -4,7 +4,7 @@ collection: preprints
 permalink: /publication/On_the_quantum_time_complexity_of_divide_and_conquer
 excerpt: ''
 date: 2023-11-28
-venue: 'QIP2024'
+venue: ''
 paperurl: 'https://arxiv.org/pdf/2311.16401.pdf'
 citation: ''
 ---
