@@ -4,7 +4,7 @@ collection: preprints
 permalink: /publication/Fundamental_theorem_for_quantum_asset_pricing
 excerpt: ''
 date: 2022-12-31
-venue: 'Journal 1'
+venue: 'In submission'
 paperurl: 'https://arxiv.org/pdf/2212.13815.pdf'
 citation: ''
 ---
