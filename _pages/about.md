@@ -13,3 +13,15 @@ I am looking for a PostDoc position starting soon.
 
 My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1525495&target=189017).
 
+## Research Interests
+
++ Combinatorial algorithms.
++ Quantum query complexity.
++ Learning theory.
+
+## Papers
+
+1. **On quantum time complexity of divide and conquer**
+2. **Constant-depth circuits for Uniformly Controlled Gates and Boolean functions with application to quantum memory circuits**
+3. **Fundamental theorem for quantum asset pricing**
+4. **Quantum algorithm for stochastic optimal stopping problems with applications in finance**
