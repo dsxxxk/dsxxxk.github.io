@@ -14,6 +14,7 @@ Education
 * Ph.D in Computer Science, National University of Singapore, 2024 (expected)
 * B.S. in Computer Science, Sichuan University, 2019
 
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -39,3 +40,5 @@ Service and leadership
  * 
 
  </div>
+
+-->
