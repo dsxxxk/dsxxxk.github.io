@@ -21,9 +21,14 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
 
 ## Papers
 
-1. **On quantum time complexity of divide and conquer**
+1. **On quantum time complexity of divide and conquer** [[arxiv](https://arxiv.org/abs/2311.16401)]
    Joint work with Jonathan Allcock, Aleksandrs Belovs, Troy Lee and Miklos Santha
-   Talk at QIP2024[video](https://www.youtube.com/watch?v=2Vc9FzULV_E)
-3. **Constant-depth circuits for Uniformly Controlled Gates and Boolean functions with application to quantum memory circuits**
-4. **Fundamental theorem for quantum asset pricing**
-5. **Quantum algorithm for stochastic optimal stopping problems with applications in finance**[arxiv](https://arxiv.org/abs/2111.15332)
+   Talk at QIP2024 [[video](https://www.youtube.com/watch?v=2Vc9FzULV_E)]
+3. **Constant-depth circuits for Uniformly Controlled Gates and Boolean functions with application to quantum memory circuits** [[arxiv](https://arxiv.org/abs/2308.08539)]
+   Joint work with Jonathan Allcock, Jo\~ao Doriguello Alessandro Luongo and Miklos Santha
+   Talk at QTML2023
+5. **Fundamental theorem for quantum asset pricing** [[arxiv](https://arxiv.org/abs/2212.13815)]
+   Joint work with Patrick Rebentrost
+6. **Quantum algorithm for stochastic optimal stopping problems with applications in finance** [[arxiv](https://arxiv.org/abs/2111.15332)]
+   Joint work with Jo\~ao Doriguello Alessandro Luongo, Patrick Rebentrost and Miklos Santha
+   Talk at TQC2022
