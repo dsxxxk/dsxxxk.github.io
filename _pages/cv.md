@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, National University of Singapore, 2024 (expected)
+* Ph.D in Computer Science, National University of Singapore, 2024
 * B.S. in Computer Science, Sichuan University, 2019
 
 <!-- 
