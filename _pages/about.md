@@ -15,9 +15,9 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
 
 ## Research Interests
 
-+ Combinatorial algorithms.
-+ Quantum query complexity.
-+ Learning theory.
++ Algorithms: graph-theoretic algorithms, string problems and combinatorial optimization
++ Computational complexity: query complexity, time complexity and communication complexity
++ Provable machine learning: online learning
 
 ## Papers
 
