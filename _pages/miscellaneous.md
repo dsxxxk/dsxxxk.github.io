@@ -5,4 +5,6 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-Something interesting here.
+Resources
+
+[Luca Trevisan's blog](https://lucatrevisan.wordpress.com/)
