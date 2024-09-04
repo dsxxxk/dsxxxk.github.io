@@ -12,8 +12,6 @@ redirect_from:
 I am a research assistant in CQT, NUS working with [Patrick Rebentrost](https://www.quantumlah.org/people/profile/Frank-Patrick).
 Previously, I obtained my PhD degree from [Centre for Quantum Technologies](https://www.quantumlah.org/) and [National University of Singapore](https://nus.edu.sg/). My research interests are combinatorial algorithms, computational complexity, and learning theory. My Ph.D. advisor is [Miklos Santha](https://www.irif.fr/~santha/).
 
-I am moving to Paris to work as a CNRS Postdoc Research Fellow at [IRIF](https://www.irif.fr/index) this fall.
-
 My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1525495&target=189017).
 
 ## Research Interests
