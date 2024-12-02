@@ -28,9 +28,10 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
 2. **Constant-depth circuits for Uniformly Controlled Gates and Boolean functions with application to quantum memory circuits** [[arxiv](https://arxiv.org/abs/2308.08539)]\
    Joint work with Jonathan Allcock, Jo\~ao Doriguello Alessandro Luongo and Miklos Santha\
    Talk at QTML2023\
-   Talk at TQC2024
-3. **Fundamental theorem for quantum asset pricing** [[arxiv](https://arxiv.org/abs/2212.13815)]\
+   Talk at TQC2024\
+   Published on Quantum.
+4. **Fundamental theorem for quantum asset pricing** [[arxiv](https://arxiv.org/abs/2212.13815)]\
    Joint work with Patrick Rebentrost
-4. **Quantum algorithm for stochastic optimal stopping problems with applications in finance** [[arxiv](https://arxiv.org/abs/2111.15332)]\
+5. **Quantum algorithm for stochastic optimal stopping problems with applications in finance** [[arxiv](https://arxiv.org/abs/2111.15332)]\
    Joint work with Jo\~ao Doriguello Alessandro Luongo, Patrick Rebentrost and Miklos Santha\
    Talk at TQC2022
