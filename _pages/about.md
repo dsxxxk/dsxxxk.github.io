@@ -25,13 +25,13 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
 1. **On quantum time complexity of divide and conquer** [[arxiv](https://arxiv.org/abs/2311.16401)]\
    Joint work with Jonathan Allcock, Aleksandrs Belovs, Troy Lee and Miklos Santha\
    Talk at QIP2024 [[video](https://www.youtube.com/watch?v=2Vc9FzULV_E)]
-2. **Constant-depth circuits for Uniformly Controlled Gates and Boolean functions with application to quantum memory circuits** [[arxiv](https://arxiv.org/abs/2308.08539)]\
+2. **Constant-depth circuits for Uniformly Controlled Gates and Boolean functions with application to quantum memory circuits** [[arxiv](https://arxiv.org/abs/2308.08539)][[Quantum](https://quantum-journal.org/papers/q-2024-11-20-1530/pdf)]\
    Joint work with Jonathan Allcock, Jo\~ao Doriguello Alessandro Luongo and Miklos Santha\
    Talk at QTML2023\
    Talk at TQC2024\
    Published on Quantum.
 4. **Fundamental theorem for quantum asset pricing** [[arxiv](https://arxiv.org/abs/2212.13815)]\
    Joint work with Patrick Rebentrost
-5. **Quantum algorithm for stochastic optimal stopping problems with applications in finance** [[arxiv](https://arxiv.org/abs/2111.15332)]\
+5. **Quantum algorithm for stochastic optimal stopping problems with applications in finance** [[arxiv](https://arxiv.org/abs/2111.15332)][[TQC](https://drops.dagstuhl.de/storage/00lipics/lipics-vol232-tqc2022/LIPIcs.TQC.2022.2/LIPIcs.TQC.2022.2.pdf)]\
    Joint work with Jo\~ao Doriguello Alessandro Luongo, Patrick Rebentrost and Miklos Santha\
-   Talk at TQC2022
+   On proceeding of TQC2022
