@@ -9,30 +9,29 @@ redirect_from:
 
 ## Short Bio
 
-I am a research fellow at CQT, NUS working with [Patrick Rebentrost](https://www.quantumlah.org/people/profile/Frank-Patrick).
+I am a research fellow at CQT, NUS, working with [Patrick Rebentrost](https://www.quantumlah.org/people/profile/Frank-Patrick).
 Previously, I obtained my PhD degree from [Centre for Quantum Technologies](https://www.quantumlah.org/) and [National University of Singapore](https://nus.edu.sg/). My research interests are combinatorial algorithms, computational complexity, and learning theory. My Ph.D. advisor is [Miklos Santha](https://www.irif.fr/~santha/).
 
 My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1525495&target=189017).
 
 ## Research Interests
 
-+ Algorithms: graph-theoretic algorithms, string problems and combinatorial optimization
++ Algorithms: graph-theoretic algorithms, string problems, and combinatorial optimization
 + Complexity: query complexity, time complexity and communication complexity, analysis of boolean functions
 + Provable machine learning: online learning
 
 ## Papers
-
 - **Learning junta distributions, quantum junta states, and $QAC^0$ circuits** [[arxiv](https://arxiv.org/abs/2410.15822)]\
    Joint work with Francisco Escudero Gutiérrez\
   
 - **On quantum time complexity of divide and conquer** [[arxiv](https://arxiv.org/abs/2311.16401)] [[QIP2024 talk](https://www.youtube.com/watch?v=2Vc9FzULV_E)]\
-   Joint work with Jonathan Allcock, Aleksandrs Belovs, Troy Lee and Miklos Santha\
+   Joint work with Jonathan Allcock, Aleksandrs Belovs, Troy Lee, and Miklos Santha\
   
 - **Constant-depth circuits for Uniformly Controlled Gates and Boolean functions with application to quantum memory circuits** [[arxiv](https://arxiv.org/abs/2308.08539)][[Quantum](https://quantum-journal.org/papers/q-2024-11-20-1530/pdf)][[TQC2024 talk](https://www.youtube.com/watch?v=66hoGm5TRWc&list=PLmE1-ewBrbki0NDUypq032n2Tk7pq1rpN&index=3)][QTML2023 talk]\
-   Joint work with Jonathan Allcock, Jo\~ao Doriguello Alessandro Luongo and Miklos Santha\
+   Joint work with Jonathan Allcock, Jo\~ao Doriguello Alessandro Luongo, and Miklos Santha\
   
 - **Fundamental theorem for quantum asset pricing** [[arxiv](https://arxiv.org/abs/2212.13815)]\
    Joint work with Patrick Rebentrost\
   
 - **Quantum algorithm for stochastic optimal stopping problems with applications in finance** [[arxiv](https://arxiv.org/abs/2111.15332)][[TQC](https://drops.dagstuhl.de/storage/00lipics/lipics-vol232-tqc2022/LIPIcs.TQC.2022.2/LIPIcs.TQC.2022.2.pdf)]\
-   Joint work with Jo\~ao Doriguello Alessandro Luongo, Patrick Rebentrost and Miklos Santha\
+   Joint work with Jo\~ao Doriguello Alessandro Luongo, Patrick Rebentros,t and Miklos Santha\
