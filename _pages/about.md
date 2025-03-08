@@ -30,8 +30,8 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
 - **Constant-depth circuits for Uniformly Controlled Gates and Boolean functions with application to quantum memory circuits** [[arxiv](https://arxiv.org/abs/2308.08539)][[Quantum](https://quantum-journal.org/papers/q-2024-11-20-1530/pdf)][[TQC2024 talk](https://www.youtube.com/watch?v=66hoGm5TRWc&list=PLmE1-ewBrbki0NDUypq032n2Tk7pq1rpN&index=3)][QTML2023 talk]\
    Joint work with Jonathan Allcock, Jo\~ao Doriguello Alessandro Luongo, and Miklos Santha
   
-- **Fundamental theorem for quantum asset pricing** [[arxiv](https://arxiv.org/abs/2212.13815)]
-   Joint work with Patrick Rebentrost\
+- **Fundamental theorem for quantum asset pricing** [[arxiv](https://arxiv.org/abs/2212.13815)]\
+   Joint work with Patrick Rebentrost
   
 - **Quantum algorithm for stochastic optimal stopping problems with applications in finance** [[arxiv](https://arxiv.org/abs/2111.15332)][[TQC](https://drops.dagstuhl.de/storage/00lipics/lipics-vol232-tqc2022/LIPIcs.TQC.2022.2/LIPIcs.TQC.2022.2.pdf)]\
    Joint work with Jo\~ao Doriguello Alessandro Luongo, Patrick Rebentros,t and Miklos Santha
