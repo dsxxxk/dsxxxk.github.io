@@ -24,7 +24,7 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
 - **Learning junta distributions, quantum junta states, and $QAC^0$ circuits** [[arxiv](https://arxiv.org/abs/2410.15822)]\
    Joint work with Francisco Escudero Gutiérrez
   
-- **On quantum time complexity of divide and conquer** ICALP 2025 [[arxiv](https://arxiv.org/abs/2311.16401)] [[QIP2024 talk](https://www.youtube.com/watch?v=2Vc9FzULV_E)]\
+- **On quantum time complexity of divide and conquer** [[arxiv](https://arxiv.org/abs/2311.16401)] [[QIP2024 talk](https://www.youtube.com/watch?v=2Vc9FzULV_E)] [ICALP2025]\
    Joint work with Jonathan Allcock, Aleksandrs Belovs, Troy Lee, and Miklos Santha
   
 - **Constant-depth circuits for Uniformly Controlled Gates and Boolean functions with application to quantum memory circuits** [[arxiv](https://arxiv.org/abs/2308.08539)][[Quantum](https://quantum-journal.org/papers/q-2024-11-20-1530/pdf)][[TQC2024 talk](https://www.youtube.com/watch?v=66hoGm5TRWc&list=PLmE1-ewBrbki0NDUypq032n2Tk7pq1rpN&index=3)][QTML2023 talk]\
