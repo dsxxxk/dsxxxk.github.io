@@ -26,7 +26,7 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
 - **On quantum time complexity of divide and conquer** [[arxiv](https://arxiv.org/abs/2311.16401)] [[QIP2024 talk](https://www.youtube.com/watch?v=2Vc9FzULV_E)] [ICALP2025]\
    Joint work with Jonathan Allcock, Aleksandrs Belovs, Troy Lee, and Miklos Santha
   
-- **Constant-depth circuits for Uniformly Controlled Gates and Boolean functions with application to quantum memory circuits** [[arxiv](https://arxiv.org/abs/2308.08539)][[Quantum](https://quantum-journal.org/papers/q-2024-11-20-1530/pdf)][[TQC2024](https://www.youtube.com/watch?v=66hoGm5TRWc&list=PLmE1-ewBrbki0NDUypq032n2Tk7pq1rpN&index=3)][QTML2023]\
+- **Constant-depth circuits for Uniformly Controlled Gates and Boolean functions with application to quantum memory circuits** [[arxiv](https://arxiv.org/abs/2308.08539)][[Quantum](https://quantum-journal.org/papers/q-2024-11-20-1530/pdf)][QTML2023][[TQC2024](https://www.youtube.com/watch?v=66hoGm5TRWc&list=PLmE1-ewBrbki0NDUypq032n2Tk7pq1rpN&index=3)]\
    Joint work with Jonathan Allcock, João Doriguello, Alessandro Luongo, and Miklos Santha
   
 - **Fundamental theorem for quantum asset pricing** [[arxiv](https://arxiv.org/abs/2212.13815)]\
