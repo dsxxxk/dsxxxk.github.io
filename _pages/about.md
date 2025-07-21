@@ -36,7 +36,7 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
    Joint work with João Doriguello Alessandro Luongo, Patrick Rebentrost, and Miklos Santha
 
 ## Events
-- [Quantum algorithms and complexity workshop](https://www.eventbrite.com/e/quantum-algorithms-and-complexity-workshop-tickets-1328042624239?aff=oddtdtcreator), part of [Quantum Fringe 2025](https://www.quantumsoftwarelab.com/quantum-fringe-scotland).
+- [Quantum Algorithms and Complexity Workshop](https://www.eventbrite.com/e/quantum-algorithms-and-complexity-workshop-tickets-1328042624239?aff=oddtdtcreator), part of [Quantum Fringe 2025](https://www.quantumsoftwarelab.com/quantum-fringe-scotland).
 
 
 ## Contact
