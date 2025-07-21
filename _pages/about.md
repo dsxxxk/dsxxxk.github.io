@@ -9,7 +9,7 @@ redirect_from:
 
 ## Short Bio
 
-I was a research fellow at CQT, NUS, working with [Patrick Rebentrost](https://www.quantumlah.org/people/profile/Frank-Patrick). And at the same institution, I obtained my PhD degree from [Centre for Quantum Technologies](https://www.quantumlah.org/) and [National University of Singapore](https://nus.edu.sg/). My research interests are combinatorial algorithms, computational complexity, and learning theory. My Ph.D. advisor is [Miklos Santha](https://www.irif.fr/~santha/).
+I am currently a Senior Researcher in the School of Informatics, University of Edinburgh. Previously, I was a research fellow at CQT, NUS, working with [Patrick Rebentrost](https://www.quantumlah.org/people/profile/Frank-Patrick). And at the same institution, I obtained my PhD degree from [Centre for Quantum Technologies](https://www.quantumlah.org/) and [National University of Singapore](https://nus.edu.sg/). My research interests are combinatorial algorithms, computational complexity, and learning theory. My Ph.D. advisor is [Miklos Santha](https://www.irif.fr/~santha/).
 
 My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1525495&target=189017).
 
