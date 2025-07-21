@@ -35,6 +35,10 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
 - **Quantum algorithm for stochastic optimal stopping problems with applications in finance** [[arxiv](https://arxiv.org/abs/2111.15332)][[TQC](https://drops.dagstuhl.de/storage/00lipics/lipics-vol232-tqc2022/LIPIcs.TQC.2022.2/LIPIcs.TQC.2022.2.pdf)]\
    Joint work with João Doriguello Alessandro Luongo, Patrick Rebentrost, and Miklos Santha
 
+## Events
+- [Quantum algorithms and complexity workshop](https://www.eventbrite.com/e/quantum-algorithms-and-complexity-workshop-tickets-1328042624239?aff=oddtdtcreator), part of [Quantum Fringe 2025](https://www.quantumsoftwarelab.com/quantum-fringe-scotland).
+
+
 ## Contact
 - **Email:** jinge.bao@ed.ac.uk
 - **Address:** 3.05 Bayes Center, 47 Potterrow, Edinburgh EH8 9BT, United Kingdom
