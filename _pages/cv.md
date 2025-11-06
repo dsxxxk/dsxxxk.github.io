@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Prefession
+======
+* Senior Researcher, University of Edinburgh, 2025 - present
+
 Education
 ======
 * Ph.D in Computer Science, National University of Singapore, 2024
