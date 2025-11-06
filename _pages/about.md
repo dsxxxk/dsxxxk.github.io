@@ -9,7 +9,7 @@ redirect_from:
 
 ## Short Bio
 
-I am currently a Senior Researcher in the School of Informatics, University of Edinburgh, led by [Elham Kashefi](https://scholar.google.com/citations?user=oXpgxTIAAAAJ&hl=en&inst=9829354390429183113). Previously, I was a research fellow at CQT, NUS, working with [Patrick Rebentrost](https://www.quantumlah.org/people/profile/Frank-Patrick). And at the same institution, I obtained my PhD degree from [Centre for Quantum Technologies](https://www.quantumlah.org/) and [National University of Singapore](https://nus.edu.sg/). My research interests are combinatorial algorithms, computational complexity, and learning theory. My Ph.D. advisor is [Miklos Santha](https://www.irif.fr/~santha/).
+I am currently a Senior Researcher in the School of Informatics, University of Edinburgh, led by [Elham Kashefi](https://scholar.google.com/citations?user=oXpgxTIAAAAJ&hl=en&inst=9829354390429183113). Previously, I was a research fellow at CQT, NUS, working with [Patrick Rebentrost](https://www.quantumlah.org/people/profile/Frank-Patrick). And at the same institution, I obtained my PhD degree from [Centre for Quantum Technologies](https://www.quantumlah.org/) and [National University of Singapore](https://nus.edu.sg/), supervised by [Miklos Santha](https://www.irif.fr/~santha/).
 
 My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1525495&target=189017).
 
@@ -21,7 +21,7 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
 
 ## Papers
 
-- **On estimating the quantum Tsallis relative entropy [[arxiv](https://arxiv.org/abs/2510.00752)]\
+- **On estimating the quantum Tsallis relative entropy** [[arxiv](https://arxiv.org/abs/2510.00752)]\
    with Minbo Gao and Qisheng Wang
 
 - **Quantum algorithms and lower bounds for eccentricity, radius, and diameter in undirected graphs** [[arxiv](https://arxiv.org/abs/2502.20148)]\
