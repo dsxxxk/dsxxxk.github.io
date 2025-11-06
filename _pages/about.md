@@ -24,7 +24,7 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
 - **On estimating the quantum Tsallis relative entropy [[arxiv](https://arxiv.org/abs/2510.00752)]\
    with Minbo Gao and Qisheng Wang
 
-- **Quantum algorithms and lower bounds for eccentricity, radius, and diameter in undirected graphs** [[arxiv](https://arxiv.org/abs/2502.20148)]
+- **Quantum algorithms and lower bounds for eccentricity, radius, and diameter in undirected graphs** [[arxiv](https://arxiv.org/abs/2502.20148)]\
    with Adam Wesołowski
 
 - **Learning junta distributions, quantum junta states, and $QAC^0$ circuits** [[arxiv](https://arxiv.org/abs/2410.15822)] [AQIS2025]\
