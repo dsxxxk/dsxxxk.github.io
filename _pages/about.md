@@ -44,7 +44,7 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
 
 ## Service
 - [Quantum Algorithms and Complexity Workshop](https://www.eventbrite.com/e/quantum-algorithms-and-complexity-workshop-tickets-1328042624239?aff=oddtdtcreator), part of [Quantum Fringe 2025](https://www.quantumsoftwarelab.com/quantum-fringe-scotland).
-- Reviewer TQC(2023,2024), QIP(2026), STACS(2025), QTML(2025), ITCS(2025), Quantum Journal
+- Reviewer TQC(2023,2024), QIP(2026), STACS(2025), QTML(2025), ITCS(2025), and Quantum Journal.
 
 
 ## Contact
