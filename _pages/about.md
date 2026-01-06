@@ -48,5 +48,5 @@ My Erdős number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-d
 
 
 ## Contact
-- **Email:** jinge.bao@ed.ac.uk
+- **Email:** jingebao1011@gmail.com
 - **Address:** 3.05 Bayes Center, 47 Potterrow, Edinburgh EH8 9BT, United Kingdom
